@@ -40,18 +40,63 @@
 
 ### 3D Face Reconstruction
 
-| Year | Name                                  | Paper                                                        | Codes                                                        |
-| ---- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2018 | 3DDFA                                 | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
-| 2019 | Deep3DFaceRecon                       | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
-| 2020 | 3DDFA_V2                              | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
-| 2020 | Detailed3DFace                        | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
-| 2021 | DECA                                  | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
-|      | Imperial College London（帝国理工组） |                                                              |                                                              |
-| 2021 | TBGAN                                 | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)              |
-| 2021 | OSTeC                                 | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)              |
-| 2019 | GANFit                                | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit)             |
-| 2021 | Fast-GANFit                           | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                              |
-| 2021 | AvatarMe                              | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)               |
-| 2021 | AvatarMe++                            | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                              |
+| Year | Name                    | Paper                                                        | Codes                                                        |
+| ---- | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2018 | 3DDFA                   | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
+| 2019 | Deep3DFaceRecon         | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
+| 2020 | 3DDFA_V2                | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
+| 2020 | **Detailed3DFace**      | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
+| 2021 | DECA                    | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
+|      | Imperial College London | （帝国理工组）                                               |                                                              |
+| 2021 | TBGAN                   | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)              |
+| 2021 | OSTeC                   | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)              |
+| 2019 | GANFit                  | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit)             |
+| 2021 | Fast-GANFit             | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                              |
+| 2021 | AvatarMe                | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)               |
+| 2021 | AvatarMe++              | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                              |
 
+---
+
+### 3D Human Digitization
+
+[DeepMotion](https://deepmotion.com/Animate-3D)
+
+| Year | Name                     | Paper                                                        | Codes                                                        |
+| ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019 | speech2gesture           | [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) | [official](https://github.com/amirbar/speech2gesture)        |
+| 2020 | Monoport                 | [Monoport: Monocular Volumetric Human Teleportation](https://arxiv.org/pdf/2007.13988v1.pdf) | [official](https://github.com/Project-Splinter/MonoPort)     |
+| 2020 | PiFuHD                   | [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/pdf/2004.00452.pdf) | [official](https://github.com/facebookresearch/pifuhd)       |
+| 2021 | **ContactHumanDynamics** | [Contact and Human Dynamics from Monocular Video](https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/) | [official](https://github.com/davrempe/contact-human-dynamics) |
+| 2021 | HuMoR                    | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) | [official](https://github.com/davrempe/humor)                |
+| 2021 | Neural Body              | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [official](https://github.com/zju3dv/neuralbody)             |
+
+---
+
+### Classification
+
+| Year | Name          | Paper                                                        | Codes                                                        |
+| ---- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021 | MLP-Mixer     | [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) | [official](https://github.com/google-research/vision_transformer) |
+| 2021 | Noisy Student | [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) | [official](https://github.com/google-research/noisystudent)  |
+| 2021 | ImageNet-21K  | [ImageNet-21K Pretraining for the Masses](https://github.com/Alibaba-MIIL/ImageNet21K) | [official](https://github.com/Alibaba-MIIL/ImageNet21K)      |
+
+---
+
+### Face Detection
+
+| Year | Name  | Paper                                                        | Codes                                                        |
+| ---- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2016 | MTCNN | [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878) | [unofficial](https://github.com/taotaonice/FaceShifter/tree/master/face_modules/mtcnn_pytorch) |
+| 2020 | DSFD  | [DSFD: Dual Shot Face Detector](https://arxiv.org/abs/1810.10220) | [official](https://github.com/Tencent/FaceDetection-DSFD)    |
+| 2021 | SCRFD | [Sample and Computation Redistribution for Efficient Face Detection](https://arxiv.org/abs/2105.04714) | [official](https://github.com/deepinsight/insightface/tree/master/detection/scrfd) |
+
+---
+
+### else
+
+| Year | Name           | Paper                                                        | Codes                                             |
+| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------- |
+|      |                |                                                              |                                                   |
+| 2021 | speech2gesture | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.00681.pdf) | [official](https://github.com/zju3dv/NeuralRecon) |
+|      |                |                                                              |                                                   |
+|      |                |                                                              |                                                   |
