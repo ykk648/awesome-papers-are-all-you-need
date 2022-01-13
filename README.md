@@ -1,5 +1,9 @@
 # Awesome-Papers-Are-All-You-Need
 
+Record papers I have read since 2020 which were beneficial to my work . 
+
+
+[TOC]
 
 
 ### Face Swap
@@ -48,9 +52,9 @@
 | 2020 | **Detailed3DFace**      | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
 | 2021 | DECA                    | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
 |      | Imperial College London | （帝国理工组）                                               |                                                              |
+| 2019 | GANFit                  | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit)             |
 | 2021 | TBGAN                   | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)              |
 | 2021 | OSTeC                   | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)              |
-| 2019 | GANFit                  | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit)             |
 | 2021 | Fast-GANFit             | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                              |
 | 2021 | AvatarMe                | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)               |
 | 2021 | AvatarMe++              | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                              |
@@ -79,6 +83,7 @@
 | 2021 | MLP-Mixer     | [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) | [official](https://github.com/google-research/vision_transformer) |
 | 2021 | Noisy Student | [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) | [official](https://github.com/google-research/noisystudent)  |
 | 2021 | ImageNet-21K  | [ImageNet-21K Pretraining for the Masses](https://github.com/Alibaba-MIIL/ImageNet21K) | [official](https://github.com/Alibaba-MIIL/ImageNet21K)      |
+| 2022 | ConvNeXt      | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)  | [official](https://github.com/facebookresearch/ConvNeXt)     |
 
 ---
 
