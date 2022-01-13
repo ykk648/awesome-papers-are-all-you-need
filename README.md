@@ -1,9 +1,12 @@
+↖ press there to get TOC
+
+
+
 # Awesome-Papers-Are-All-You-Need
 
 Record papers I have read since 2020 which were beneficial to my work . 
 
 
-[TOC]
 
 
 ### Face Swap
