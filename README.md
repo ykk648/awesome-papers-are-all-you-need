@@ -8,21 +8,6 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 
 
-
-
-
----
-
-### Super Resolution
-
-| Year | Name        | Paper                                                        | Codes                                              |
-| ---- | ----------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| 2018 | ESRGAN      | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219) | [official](https://github.com/xinntao/ESRGAN)      |
-| 2020 | DFDNet      | [Blind Face Restoration via Deep Multi-scale Component Dictionaries](https://arxiv.org/pdf/2008.00418.pdf) | [official](https://github.com/csxmli2016/DFDNet)   |
-| 2021 | Real-ESRGAN | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833) | [official](https://github.com/xinntao/Real-ESRGAN) |
-| 2021 | **GFPGAN**  | [GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061) | [official](https://github.com/TencentARC/GFPGAN)   |
-| 2021 | **GPEN**    | [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070) | [official](https://github.com/yangxy/GPEN)         |
-
 ---
 
 
@@ -168,6 +153,18 @@ Record papers I have read since 2020 which were beneficial to my work .
 | 2020 | NeRF        | [Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Berkeley](https://github.com/bmild/nerf)        |
 | 2021 | Neural Body | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [official](https://github.com/zju3dv/neuralbody) |
 | 2021 | **AD-Nerf** | [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | [official](https://github.com/YudongGuo/AD-NeRF) |
+
+---
+
+### Super Resolution
+
+| Year | Name        | Paper                                                        | Codes                                              |
+| ---- | ----------- | ------------------------------------------------------------ | -------------------------------------------------- |
+| 2018 | ESRGAN      | [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219) | [official](https://github.com/xinntao/ESRGAN)      |
+| 2020 | DFDNet      | [Blind Face Restoration via Deep Multi-scale Component Dictionaries](https://arxiv.org/pdf/2008.00418.pdf) | [official](https://github.com/csxmli2016/DFDNet)   |
+| 2021 | Real-ESRGAN | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833) | [official](https://github.com/xinntao/Real-ESRGAN) |
+| 2021 | **GFPGAN**  | [GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061) | [official](https://github.com/TencentARC/GFPGAN)   |
+| 2021 | **GPEN**    | [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070) | [official](https://github.com/yangxy/GPEN)         |
 
 ---
 
