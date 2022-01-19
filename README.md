@@ -9,18 +9,7 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 
 
-### Face Swap
 
-| Year | Name           | Paper                                                        | Codes                                                        |
-| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2019 | FSGAN          | [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/pdf/1908.05932.pdf) | [official](https://github.com/YuvalNirkin/fsgan)             |
-| 2020 | Disney         | [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf) | [unofficial](https://github.com/Arthurzhangsheng/High-Resolution-Neural-Face-Swapping-for-Visual-Effects) |
-| 2020 | FaceShifter    | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) | [unofficial](https://github.com/mindslab-ai/faceshifter)     |
-| 2021 | **SimSwap**    | [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/pdf/2106.06340v1.pdf) | [official](https://github.com/neuralchen/SimSwap)            |
-| 2021 | InfoSwap       | [Information Bottleneck Disentanglement for Identity Swapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf) | [official](https://github.com/GGGHSL/InfoSwap-master)        |
-| 2021 | ShapeEditer    | [ShapeEditer: a StyleGAN Encoder for Face Swapping](https://arxiv.org/abs/2106.13984) |                                                              |
-| 2021 | **HifiFace**   | [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://arxiv.org/pdf/2106.09965) | [unofficial](https://github.com/mindslab-ai/hififace)        |
-| 2022 | MobileFaceSwap | [MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://arxiv.org/abs/2201.03808) | baidu                                                        |
 
 ---
 
@@ -36,49 +25,45 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 ---
 
-### ViT Transformer
-
-| Year | Name                | Paper                                                        | Codes                                                        |
-| ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2017 | google Attention    | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [official](https://github.com/jadore801120/attention-is-all-you-need-pytorch) |
-| 2020 | **ViT**             | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | [official](https://github.com/google-research/vision_transformer) |
-| 2021 | Token Labeling      | [All Tokens Matter: Token Labeling for Training Better Vision Transformers](https://arxiv.org/abs/2104.10858) | [official](https://github.com/zihangJiang/TokenLabeling)     |
-| 2021 | Tokens-to-Token ViT | [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Tokens-to-Token_ViT_Training_Vision_Transformers_From_Scratch_on_ImageNet_ICCV_2021_paper.pdf) | [official](https://github.com/yitu-opensource/T2T-ViT)       |
-| 2021 | **MAE**             | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) | [official](https://github.com/facebookresearch/mae)          |
 
 ### 3D Face Reconstruction
 
-| Year | Name                    | Paper                                                        | Codes                                                        |
-| ---- | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2018 | 3DDFA                   | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
-| 2019 | Deep3DFaceRecon         | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
-| 2020 | **3DDFA_V2**            | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
-| 2020 | **Detailed3DFace**      | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
-| 2021 | DECA                    | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
-|      | Imperial College London | （帝国理工组）                                               |                                                              |
-| 2019 | GANFit                  | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit)             |
-| 2021 | TBGAN                   | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)              |
-| 2021 | OSTeC                   | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)              |
-| 2021 | Fast-GANFit             | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                              |
-| 2021 | AvatarMe                | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)               |
-| 2021 | AvatarMe++              | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                              |
+| Year | Name               | Paper                                                        | Codes                                                        |
+| ---- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2018 | 3DDFA              | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
+| 2019 | Deep3DFaceRecon    | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
+| 2020 | **3DDFA_V2**       | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
+| 2020 | **Detailed3DFace** | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
+| 2021 | DECA               | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
+
+#### Imperial College London 
+
+| Year | Name        | Paper                                                        | Codes                                            |
+| ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| 2019 | GANFit      | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit) |
+| 2021 | TBGAN       | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)  |
+| 2021 | OSTeC       | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)  |
+| 2021 | Fast-GANFit | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                  |
+| 2021 | AvatarMe    | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)   |
+| 2021 | AvatarMe++  | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                  |
 
 ---
 
 ### 3D Human Digitization
 
-[DeepMotion](https://deepmotion.com/Animate-3D)
+
 
 | Year | Name                     | Paper                                                        | Codes                                                        |
 | ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2019 | speech2gesture           | [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) | [official](https://github.com/amirbar/speech2gesture)        |
 | 2020 | Monoport                 | [Monoport: Monocular Volumetric Human Teleportation](https://arxiv.org/pdf/2007.13988v1.pdf) | [official](https://github.com/Project-Splinter/MonoPort)     |
-| 2020 | PiFuHD                   | [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/pdf/2004.00452.pdf) | [official](https://github.com/facebookresearch/pifuhd)       |
-| 2021 | **ContactHumanDynamics** | [Contact and Human Dynamics from Monocular Video](https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/) | [official](https://github.com/davrempe/contact-human-dynamics) |
-| 2021 | HuMoR                    | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) | [official](https://github.com/davrempe/humor)                |
-| 2021 | Neural Body              | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [official](https://github.com/zju3dv/neuralbody)             |
+| 2020 | PiFuHD                   | [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/pdf/2004.00452.pdf) | [Meta](https://github.com/facebookresearch/pifuhd)           |
+| 2021 | iPERCore                 | [Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis](https://arxiv.org/pdf/2011.09055.pdf) | [official](https://github.com/iPERDance/iPERCore)            |
+| 2021 | **ContactHumanDynamics** | [Contact and Human Dynamics from Monocular Video](https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/) | [Stanford](https://github.com/davrempe/contact-human-dynamics) |
+| 2021 | HuMoR                    | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) | [Stanford](https://github.com/davrempe/humor)                |
 | 2021 | MeTRAbs                  | [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227) | [official](https://github.com/isarandi/metrabs)              |
-| 2021 | ROMP                     | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)                |
+| 2021 | **ROMP**                 | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)                |
+| 2022 | DeepMotion               |                                                              | [official](https://deepmotion.com/Animate-3D)                |
 
 ---
 
@@ -103,6 +88,20 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 ---
 
+### Face Swap
+
+| Year | Name           | Paper                                                        | Codes                                                        |
+| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019 | FSGAN          | [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/pdf/1908.05932.pdf) | [official](https://github.com/YuvalNirkin/fsgan)             |
+| 2020 | Disney         | [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf) | [unofficial](https://github.com/Arthurzhangsheng/High-Resolution-Neural-Face-Swapping-for-Visual-Effects) |
+| 2020 | FaceShifter    | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) | [unofficial](https://github.com/mindslab-ai/faceshifter)     |
+| 2021 | **SimSwap**    | [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/pdf/2106.06340v1.pdf) | [official](https://github.com/neuralchen/SimSwap)            |
+| 2021 | InfoSwap       | [Information Bottleneck Disentanglement for Identity Swapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf) | [official](https://github.com/GGGHSL/InfoSwap-master)        |
+| 2021 | ShapeEditer    | [ShapeEditer: a StyleGAN Encoder for Face Swapping](https://arxiv.org/abs/2106.13984) |                                                              |
+| 2021 | **HifiFace**   | [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://arxiv.org/pdf/2106.09965) | [unofficial](https://github.com/mindslab-ai/hififace)        |
+| 2022 | MobileFaceSwap | [MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://arxiv.org/abs/2201.03808) | baidu                                                        |
+
+
 ### Human Pose Estimation
 
 | Year | Name          | Paper                                                        | Codes                                              |
@@ -117,9 +116,8 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 | Year | Name          | Paper                                                        | Codes                                              |
 | ---- | ------------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| 2019 | SPADE         | [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) | [official](https://github.com/NVlabs/SPADE)        |
+| 2019 | SPADE         | [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) | [Nvidia](https://github.com/NVlabs/SPADE)          |
 | 2021 | OASIS         | [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781) | [official](https://github.com/boschresearch/OASIS) |
-|      |               |                                                              |                                                    |
 | 2017 | pix2pix       | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) | [official](https://github.com/phillipi/pix2pix)    |
 | 2018 | **pix2pixHD** | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585v1) | [nvidia](https://github.com/NVIDIA/pix2pixHD)      |
 | 2018 | vid2vid       | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | [nvidia](https://github.com/NVIDIA/vid2vid)        |
@@ -128,21 +126,81 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 ### Image Generation
 
-| Year | Name       | Paper                                                        | Codes                                            |
-| ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------ |
-| 2020 | ALAE       | [Adversarial Latent Autoencoders](https://arxiv.org/abs/2004.04467) | [official](https://github.com/podgorskiy/ALAE)   |
-|      |            |                                                              |                                                  |
-| 2021 | Barbershop | [GAN-based Image Compositing using Segmentation Masks](https://arxiv.org/abs/2106.01505) | [official](https://github.com/ZPdesu/Barbershop) |
-|      |            |                                                              |                                                  |
-|      |            |                                                              |                                                  |
+| Year | Name             | Paper                                                        | Codes                                                        |
+| ---- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2020 | ALAE             | [Adversarial Latent Autoencoders](https://arxiv.org/abs/2004.04467) | [official](https://github.com/podgorskiy/ALAE)               |
+| 2020 | GANSpace         | [GANSpace: Discovering Interpretable GAN Controls](https://arxiv.org/abs/2004.02546) | [official](https://github.com/harskish/ganspace)             |
+| 2021 | Cartoon-StyleGAN | [Fine-tuning StyleGAN2 for Cartoon Face Generation](https://arxiv.org/abs/2106.12445) | [official](https://github.com/happy-jihye/Cartoon-StyleGAN)  |
+| 2021 | Barbershop       | [GAN-based Image Compositing using Segmentation Masks](https://arxiv.org/abs/2106.01505) | [official](https://github.com/ZPdesu/Barbershop)             |
+| 2021 | GANs N' Roses    | [GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation](https://arxiv.org/abs/2106.06561) | [official](https://github.com/mchong6/GANsNRoses)            |
+| 2021 | PTI              | [PTI: Pivotal Tuning for Latent-based editing of Real Images](https://arxiv.org/abs/2106.05744) | [official](https://github.com/danielroich/PTI)               |
+| 2021 | sefa             | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | [Genforce](https://github.com/genforce/sefa)                 |
+| 2021 | StyleMapGAN      | [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754) | [NAVER AI](https://github.com/naver-ai/StyleMapGAN)          |
+| 2021 | SuperStyleNet    | [SuperStlyeNet: Deep Image Synthesis with Superpixel Based Style Encoder](https://www.bmvc2021-virtualconference.com/assets/papers/0051.pdf) | [official](https://github.com/BenjaminJonghyun/SuperStyleNet) |
+| 2021 | Chunkmogrify     | [Real Image Inversion via Segments.](http://arxiv.org/abs/2110.06269) | [Adobe](https://github.com/futscdav/Chunkmogrify)            |
+
+#### Nvidia
+
+| Year | Name              | Paper                                                        | Codes                                                     |
+| ---- | ----------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 2019 | StyleGan          | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | [Nvidia](https://github.com/NVlabs/stylegan)              |
+| 2019 | **StyleGan2**     | [Analyzing and Improving the Image Quality of StyleGAN](http://arxiv.org/abs/1912.04958) | [Nvidia](https://github.com/NVlabs/stylegan2)             |
+| 2021 | **stylegan2-ada** | [Training Generative Adversarial Networks with Limited Data]() | [Nvidia](https://github.com/NVlabs/stylegan2-ada-pytorch) |
+| 2021 | StyleGan3         | [Alias-Free Generative Adversarial Networks](https://arxiv.org/abs/2106.12423) | [Nvidia](https://github.com/NVlabs/stylegan3)             |
+| 2021 | SemanticGAN       | [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833) | [Nvidia](https://github.com/nv-tlabs/semanticGAN_code)    |
+
 
 ---
 
-### else
+### Neural Head & Body
 
-| Year | Name           | Paper                                                        | Codes                                             |
-| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------- |
-|      |                |                                                              |                                                   |
-| 2021 | speech2gesture | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.00681.pdf) | [official](https://github.com/zju3dv/NeuralRecon) |
-|      |                |                                                              |                                                   |
-|      |                |                                                              |                                                   |
+| Year | Name             | Paper                                                        | Codes                                                        |
+| ---- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2020 | **FirstOrder**   | [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) | [official](https://github.com/AliaksandrSiarohin/first-order-model) |
+| 2021 | speech2gesture   | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.00681.pdf) | [official](https://github.com/zju3dv/NeuralRecon)            |
+| 2021 | StyleGestures    | [Style-controllable speech-driven gesture synthesis using normalising flows](https://diglib.eg.org/handle/10.1111/cgf13946) | [official](https://github.com/simonalexanderson/StyleGestures) |
+| 2021 | **face-vid2vid** | [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126) | [Nvidia Project](https://nvlabs.github.io/face-vid2vid/) [unofficial](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) [unofficial-2](https://github.com/zhengkw18/face-vid2vid) |
+
+#### NeRF
+
+| Year | Name        | Paper                                                        | Codes                                            |
+| ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| 2020 | NeRF        | [Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Berkeley](https://github.com/bmild/nerf)        |
+| 2021 | Neural Body | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [official](https://github.com/zju3dv/neuralbody) |
+| 2021 | **AD-Nerf** | [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | [official](https://github.com/YudongGuo/AD-NeRF) |
+
+---
+
+### ViT Transformer
+
+| Year | Name                | Paper                                                        | Codes                                                        |
+| ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2017 | google Attention    | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [official](https://github.com/jadore801120/attention-is-all-you-need-pytorch) |
+| 2020 | **ViT**             | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | [Google](https://github.com/google-research/vision_transformer) |
+| 2021 | Token Labeling      | [All Tokens Matter: Token Labeling for Training Better Vision Transformers](https://arxiv.org/abs/2104.10858) | [official](https://github.com/zihangJiang/TokenLabeling)     |
+| 2021 | Tokens-to-Token ViT | [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_Tokens-to-Token_ViT_Training_Vision_Transformers_From_Scratch_on_ImageNet_ICCV_2021_paper.pdf) | [official](https://github.com/yitu-opensource/T2T-ViT)       |
+| 2021 | **MAE**             | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) | [Meta](https://github.com/facebookresearch/mae)              |
+
+---
+
+### Metric
+
+| Year | Name                 | Paper                                                        | Codes                                                        |
+| ---- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2017 | AdaIN                | [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868) | [official](https://github.com/xunhuang1995/AdaIN-style)      |
+| 2018 | lpips                | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924) | [OpenAI](https://github.com/richzhang/PerceptualSimilarity)  |
+| 2020 | IBA                  | [Restricting the Flow: Information Bottlenecks for Attribution](https://openreview.net/attachment?id=S1xWh1rYwB&name=original_pd) | [official](https://github.com/BioroboticsLab/IBA-paper-code) |
+| 2021 | Focal Frequency Loss | [Focal Frequency Loss for Image Reconstruction and Synthesis](https://arxiv.org/abs/2012.12821) | [official](https://github.com/EndlessSora/focal-frequency-loss) |
+| 2022 | ffcv                 |                                                              | [MIT](https://github.com/libffcv/ffcv)                       |
+
+---
+
+### Others
+
+| Year | Name                | Paper                                                        | Codes                                                        |
+| ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2020 | 3d photo inpainting | [3D Photography using Context-aware Layered Depth Inpainting](https://arxiv.org/abs/2004.04727) | [official](https://github.com/vt-vl-lab/3d-photo-inpainting) |
+| 2021 | ParameterizedMotion | [Learning a family of motor skills from a single motion clip](Learning a family of motor skills from a single motion clip) | [official](https://github.com/snumrl/ParameterizedMotion)    |
+| 2021 | AnimeInterp         | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/abs/2104.02495) | [SenseTime](https://github.com/lisiyao21/AnimeInterp)        |
+| 2021 | DALLE               | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) | [OpenAI](https://github.com/lucidrains/DALLE-pytorch)        |
+
