@@ -4,7 +4,7 @@
 
 # Awesome-Papers-Are-All-You-Need
 
-Record papers I have read since 2020 which were beneficial to my work . 
+Record papers I have read or reproduced since 2020 which were beneficial to my work . 
 
 
 
@@ -36,8 +36,6 @@ Record papers I have read since 2020 which were beneficial to my work .
 
 ### 3D Human Digitization
 
-
-
 | Year | Name                     | Paper                                                        | Codes                                                        |
 | ---- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2019 | speech2gesture           | [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160) | [official](https://github.com/amirbar/speech2gesture)        |
@@ -49,6 +47,18 @@ Record papers I have read since 2020 which were beneficial to my work .
 | 2021 | MeTRAbs                  | [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227) | [official](https://github.com/isarandi/metrabs)              |
 | 2021 | **ROMP**                 | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)                |
 | 2022 | DeepMotion               |                                                              | [official](https://deepmotion.com/Animate-3D)                |
+
+#### Motion Capture & Driven
+
+| Year | Name                | Paper                                                        | Codes                                                        |
+| ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2020 | EasyMocap           | [ Motion Capture from Internet Videos](https://arxiv.org/abs/2008.07931) | [ZJU3DV](https://github.com/zju3dv/EasyMocap)                |
+| 2021 | ParameterizedMotion | [Learning a family of motor skills from a single motion clip](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.html) | [official](https://github.com/snumrl/ParameterizedMotion)    |
+| 2021 | 1165048017 Blog     |                                                              | [official](https://github.com/1165048017/BlogLearning/blob/master/BlogContents/%E8%BF%90%E5%8A%A8%E6%8D%95%E6%8D%89.md) |
+| 2021 | **TDPT**            |                                                              | [official](https://github.com/digital-standard/ThreeDPoseTracker) |
+| 2021 | IK/FABRIK/CCDIK     |                                                              | [UE4 doc](https://docs.unrealengine.com/4.27/zh-CN/)         |
+
+
 
 ---
 
@@ -92,6 +102,7 @@ Record papers I have read since 2020 which were beneficial to my work .
 | Year | Name          | Paper                                                        | Codes                                              |
 | ---- | ------------- | ------------------------------------------------------------ | -------------------------------------------------- |
 | 2018 | AlphaPose     | [RMPE: Regional Multi-Person Pose Estimation](https://github.com/MVIG-SJTU/AlphaPose) | [official](https://github.com/MVIG-SJTU/AlphaPose) |
+| 2019 | mvpose        | [Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://arxiv.org/pdf/1901.04111.pdf) | [ZJU3DV](https://github.com/zju3dv/mvpose)         |
 | 2021 | **MediaPipe** |                                                              | [official](https://github.com/google/mediapipe)    |
 | 2021 | mmpose        |                                                              | [official](https://github.com/open-mmlab/mmpose)   |
 
@@ -142,7 +153,7 @@ Record papers I have read since 2020 which were beneficial to my work .
 | Year | Name             | Paper                                                        | Codes                                                        |
 | ---- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2020 | **FirstOrder**   | [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) | [official](https://github.com/AliaksandrSiarohin/first-order-model) |
-| 2021 | speech2gesture   | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.00681.pdf) | [official](https://github.com/zju3dv/NeuralRecon)            |
+| 2021 | speech2gesture   | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.00681.pdf) | [ZJU3DV](https://github.com/zju3dv/NeuralRecon)              |
 | 2021 | StyleGestures    | [Style-controllable speech-driven gesture synthesis using normalising flows](https://diglib.eg.org/handle/10.1111/cgf13946) | [official](https://github.com/simonalexanderson/StyleGestures) |
 | 2021 | **face-vid2vid** | [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126) | [Nvidia Project](https://nvlabs.github.io/face-vid2vid/) [unofficial](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) [unofficial-2](https://github.com/zhengkw18/face-vid2vid) |
 
@@ -151,7 +162,7 @@ Record papers I have read since 2020 which were beneficial to my work .
 | Year | Name        | Paper                                                        | Codes                                            |
 | ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------ |
 | 2020 | NeRF        | [Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Berkeley](https://github.com/bmild/nerf)        |
-| 2021 | Neural Body | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [official](https://github.com/zju3dv/neuralbody) |
+| 2021 | Neural Body | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [ZJU3DV](https://github.com/zju3dv/neuralbody)   |
 | 2021 | **AD-Nerf** | [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | [official](https://github.com/YudongGuo/AD-NeRF) |
 
 ---
@@ -197,7 +208,7 @@ Record papers I have read since 2020 which were beneficial to my work .
 | Year | Name                | Paper                                                        | Codes                                                        |
 | ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2020 | 3d photo inpainting | [3D Photography using Context-aware Layered Depth Inpainting](https://arxiv.org/abs/2004.04727) | [official](https://github.com/vt-vl-lab/3d-photo-inpainting) |
-| 2021 | ParameterizedMotion | [Learning a family of motor skills from a single motion clip](Learning a family of motor skills from a single motion clip) | [official](https://github.com/snumrl/ParameterizedMotion)    |
+| 2021 | ParameterizedMotion | [Learning a family of motor skills from a single motion clip](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.pdf) | [official](https://github.com/snumrl/ParameterizedMotion)    |
 | 2021 | AnimeInterp         | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/abs/2104.02495) | [SenseTime](https://github.com/lisiyao21/AnimeInterp)        |
 | 2021 | DALLE               | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) | [OpenAI](https://github.com/lucidrains/DALLE-pytorch)        |
 
