@@ -85,16 +85,17 @@ Record papers I have read or reproduced since 2020 which were beneficial to my w
 
 ### Face Swap
 
-| Year | Name           | Paper                                                        | Codes                                                        |
-| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2019 | FSGAN          | [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/pdf/1908.05932.pdf) | [official](https://github.com/YuvalNirkin/fsgan)             |
-| 2020 | Disney         | [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf) | [unofficial](https://github.com/Arthurzhangsheng/High-Resolution-Neural-Face-Swapping-for-Visual-Effects) |
-| 2020 | FaceShifter    | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) | [unofficial](https://github.com/mindslab-ai/faceshifter)     |
-| 2021 | **SimSwap**    | [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/pdf/2106.06340v1.pdf) | [official](https://github.com/neuralchen/SimSwap)            |
-| 2021 | InfoSwap       | [Information Bottleneck Disentanglement for Identity Swapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf) | [official](https://github.com/GGGHSL/InfoSwap-master)        |
-| 2021 | ShapeEditer    | [ShapeEditer: a StyleGAN Encoder for Face Swapping](https://arxiv.org/abs/2106.13984) |                                                              |
-| 2021 | **HifiFace**   | [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://arxiv.org/pdf/2106.09965) | [unofficial](https://github.com/mindslab-ai/hififace)        |
-| 2022 | MobileFaceSwap | [MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://arxiv.org/abs/2201.03808) | baidu                                                        |
+| Year | Name              | Paper                                                        | Codes                                                        |
+| ---- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019 | FSGAN             | [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/pdf/1908.05932.pdf) | [official](https://github.com/YuvalNirkin/fsgan)             |
+| 2020 | Disney            | [High-Resolution Neural Face Swapping for Visual Effects](https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2020/06/18013325/High-Resolution-Neural-Face-Swapping-for-Visual-Effects.pdf) | [unofficial](https://github.com/Arthurzhangsheng/High-Resolution-Neural-Face-Swapping-for-Visual-Effects) |
+| 2020 | FaceShifter       | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) | [unofficial](https://github.com/mindslab-ai/faceshifter)     |
+| 2021 | **SimSwap**       | [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/pdf/2106.06340v1.pdf) | [official](https://github.com/neuralchen/SimSwap)            |
+| 2021 | InfoSwap          | [Information Bottleneck Disentanglement for Identity Swapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf) | [official](https://github.com/GGGHSL/InfoSwap-master)        |
+| 2021 | ShapeEditer       | [ShapeEditer: a StyleGAN Encoder for Face Swapping](https://arxiv.org/abs/2106.13984) |                                                              |
+| 2021 | **HifiFace**      | [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://arxiv.org/pdf/2106.09965) | [unofficial](https://github.com/mindslab-ai/hififace)        |
+| 2022 | MobileFaceSwap    | [MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://arxiv.org/abs/2201.03808) | baidu                                                        |
+| 2022 | Stitch it in Time | [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/abs/2201.08361) | [official](https://github.com/rotemtzaban/STIT)              |
 
 
 ### Human Pose Estimation
@@ -133,7 +134,8 @@ Record papers I have read or reproduced since 2020 which were beneficial to my w
 | 2021 | sefa             | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | [Genforce](https://github.com/genforce/sefa)                 |
 | 2021 | StyleMapGAN      | [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754) | [NAVER AI](https://github.com/naver-ai/StyleMapGAN)          |
 | 2021 | SuperStyleNet    | [SuperStlyeNet: Deep Image Synthesis with Superpixel Based Style Encoder](https://www.bmvc2021-virtualconference.com/assets/papers/0051.pdf) | [official](https://github.com/BenjaminJonghyun/SuperStyleNet) |
-| 2021 | Chunkmogrify     | [Real Image Inversion via Segments.](http://arxiv.org/abs/2110.06269) | [Adobe](https://github.com/futscdav/Chunkmogrify)            |
+| 2021 | Chunkmogrify     | [Real Image Inversion via Segments](http://arxiv.org/abs/2110.06269) | [Adobe](https://github.com/futscdav/Chunkmogrify)            |
+| 2021 | encoder4editing  | [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | [official](https://github.com/omertov/encoder4editing)       |
 
 #### Nvidia
 
