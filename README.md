@@ -6,6 +6,8 @@
 
 Record papers I have read or reproduced since 2020 which were beneficial to my work . 
 
+My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
+
 
 
 ---
@@ -57,6 +59,16 @@ Record papers I have read or reproduced since 2020 which were beneficial to my w
 | 2021 | 1165048017 Blog     |                                                              | [official](https://github.com/1165048017/BlogLearning/blob/master/BlogContents/%E8%BF%90%E5%8A%A8%E6%8D%95%E6%8D%89.md) |
 | 2021 | **TDPT**            |                                                              | [official](https://github.com/digital-standard/ThreeDPoseTracker) |
 | 2021 | IK/FABRIK/CCDIK     |                                                              | [UE4 doc](https://docs.unrealengine.com/4.27/zh-CN/)         |
+
+#### Human Motion Estimation
+
+[inverse dynamics](https://www.cnblogs.com/ArenAK/archive/2010/07/25/1784782.html) 
+
+| Year | Name                                  | Paper                                                        | Codes                                          |
+| ---- | ------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| 2015 | SMPL                                  | [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf) | [official](https://github.com/CalciferZh/SMPL) |
+| 2019 | SMPL-X                                | [SMPL-X:  A new joint 3D model of the human body, face and hands together](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf) | [official](https://github.com/vchoutas/smplx)  |
+| 2021 | Physics-based Human Motion Estimation | [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) | Nvidia                                         |
 
 
 
