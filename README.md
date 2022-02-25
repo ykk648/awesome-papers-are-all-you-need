@@ -1,4 +1,4 @@
-　↖ 　press there to get TOC
+　↖ 　click there to get TOC
 
 
 
@@ -70,9 +70,9 @@ My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.gi
 | 2019 | SMPL-X                                | [SMPL-X:  A new joint 3D model of the human body, face and hands together](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf) | [official](https://github.com/vchoutas/smplx)                |
 | 2017 | VNect                                 | [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](https://vcai.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) | Max Planck                                                   |
 | 2020 | 6D rotation                           | [On the Continuity of Rotation Representations in Neural Networks](https://arxiv.org/abs/1812.07035) | [official](https://github.com/Janus-Shiau/6d_rot_tensorflow) |
-| 2020 | VIBE                                  | [VIBE: Video Inference for Human Body Pose and Shape Estimation](VIBE: Video Inference for Human Body Pose and Shape Estimation) | [official](https://github.com/mkocabas/VIBE)                 |
+| 2020 | VIBE                                  | [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656) | [official](https://github.com/mkocabas/VIBE)                 |
 | 2020 | PhysCap                               | [PhysCap: Physically Plausible Monocular 3D Motion Capture   in Real Time](https://vcai.mpi-inf.mpg.de/projects/PhysCap/data/physcap.pdf) | [Max Planck](https://github.com/soshishimada/PhysCap_demo_release/) |
-| 2021 | HybrIK                                | [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](**HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation**) | [official](https://github.com/Jeff-sjtu/HybrIK)              |
+| 2021 | HybrIK                                | [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.html) | [official](https://github.com/Jeff-sjtu/HybrIK)              |
 | 2021 | Physics-based Human Motion Estimation | [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) | Nvidia                                                       |
 
 #### Hand Estimation
@@ -95,6 +95,8 @@ My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.gi
 | 2021 | Noisy Student | [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) | [official](https://github.com/google-research/noisystudent)  |
 | 2021 | ImageNet-21K  | [ImageNet-21K Pretraining for the Masses](https://github.com/Alibaba-MIIL/ImageNet21K) | [official](https://github.com/Alibaba-MIIL/ImageNet21K)      |
 | 2022 | ConvNeXt      | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)  | [official](https://github.com/facebookresearch/ConvNeXt)     |
+
+#### 
 
 ---
 
@@ -191,6 +193,17 @@ My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.gi
 | 2020 | NeRF        | [Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [Berkeley](https://github.com/bmild/nerf)        |
 | 2021 | Neural Body | [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [ZJU3DV](https://github.com/zju3dv/neuralbody)   |
 | 2021 | **AD-Nerf** | [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | [official](https://github.com/YudongGuo/AD-NeRF) |
+
+---
+
+### Object Detection
+
+| Year | Name              | Paper                                                        | Codes                                                      |
+| ---- | ----------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| 2020 | 100 Days of Hands | [Understanding Human Hands in Contact at Internet Scale](https://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/file/hands.pdf) | [official](https://github.com/ddshan/hand_object_detector) |
+| 2021 | **YOLOX**         | [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430) | [Megvii](https://github.com/Megvii-BaseDetection/YOLOX)    |
+
+
 
 ---
 
