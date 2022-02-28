@@ -74,14 +74,18 @@ My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.gi
 | 2020 | PhysCap                               | [PhysCap: Physically Plausible Monocular 3D Motion Capture   in Real Time](https://vcai.mpi-inf.mpg.de/projects/PhysCap/data/physcap.pdf) | [Max Planck](https://github.com/soshishimada/PhysCap_demo_release/) |
 | 2021 | HybrIK                                | [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.html) | [official](https://github.com/Jeff-sjtu/HybrIK)              |
 | 2021 | Physics-based Human Motion Estimation | [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) | Nvidia                                                       |
+| 2021 | SimPoE                                | [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/pdf/2104.00683.pdf) | Meta                                                         |
+| 2021 | imGHUM                                | [imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose](https://arxiv.org/abs/2108.10842) | [Google](https://github.com/google-research/google-research/tree/master/imghum) |
+| 2022 | MuJoCo                                |                                                              | [deepmind](https://github.com/deepmind/mujoco)               |
 
 #### Hand Estimation
 
-| Year | Name           | Paper                                                        | Codes                                                  |
-| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| 2017 | MANO           | [Embodied Hands: Modeling and Capturing Hands and Bodies Together](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf) | [official](https://mano.is.tue.mpg.de/index.html)      |
-| 2020 | Mediapipe      | [MediaPipe Hands: On-device Real-time Hand Tracking](https://arxiv.org/abs/2006.10214) | [Google](https://github.com/google/mediapipe)          |
-| 2021 | **FrankMocap** | [A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator](https://arxiv.org/pdf/2008.08324.pdf) | [Meta](https://github.com/facebookresearch/frankmocap) |
+| Year | Name           | Paper                                                        | Codes                                                        |
+| ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2017 | MANO           | [Embodied Hands: Modeling and Capturing Hands and Bodies Together](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf) | [official](https://mano.is.tue.mpg.de/index.html)            |
+| 2020 | Mediapipe      | [MediaPipe Hands: On-device Real-time Hand Tracking](https://arxiv.org/abs/2006.10214) | [Google](https://github.com/google/mediapipe)                |
+| 2021 | **FrankMocap** | [A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator](https://arxiv.org/pdf/2008.08324.pdf) | [Meta](https://github.com/facebookresearch/frankmocap)       |
+| 2021 | MocapNETv3     | [Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs](https://www.bmvc2021-virtualconference.com/assets/papers/1334.pdf) | [official](https://github.com/FORTH-ModelBasedTracker/MocapNET) |
 
 
 
