@@ -1,0 +1,3 @@
+[submodule "Hand3DResearch"]
+	path = Hand3DResearch
+	url = https://github.com/SeanChenxy/Hand3DResearch.git
