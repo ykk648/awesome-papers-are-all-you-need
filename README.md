@@ -8,20 +8,22 @@ Record papers I have read or reproduced since 2020 which were beneficial to my w
 
 My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
 
+Recommend:
 
+[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy
 
 ---
 
 
 ### 3D Face Reconstruction
 
-| Year | Name               | Paper                                                        | Codes                                                        |
-| ---- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2018 | 3DDFA              | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
-| 2019 | Deep3DFaceRecon    | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
-| 2020 | **3DDFA_V2**       | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
+| Year | Name               | Paper                                                                                                                                                                                                                                               | Codes                                                        |
+| ---- | ------------------ |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
+| 2018 | 3DDFA              | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005)                                                                                                                                                      | [official](https://github.com/cleardusk/3DDFA)               |
+| 2019 | Deep3DFaceRecon    | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527)                                                                                                                 | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
+| 2020 | **3DDFA_V2**       | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf)                                                                                                                                            | [official](https://github.com/cleardusk/3DDFA_V2)            |
 | 2020 | **Detailed3DFace** | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
-| 2021 | DECA               | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
+| 2021 | DECA               | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012)                                                                                                                                                                       | [official](https://github.com/YadiraF/DECA)                  |
 
 #### Imperial College London 
 
