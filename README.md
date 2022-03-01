@@ -4,13 +4,13 @@
 
 # Awesome-Papers-Are-All-You-Need
 
-Record papers I have read or reproduced since 2020 which were beneficial to my work . 
+Record papers I have read or reproduced since 2020 which were beneficial to my work. 
 
 My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
 
 Recommend:
 
-[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy
+[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy.
 
 ---
 
