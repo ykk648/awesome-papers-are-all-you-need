@@ -6,7 +6,7 @@
 
 Record papers I have read or reproduced since 2020 which were beneficial to my work. 
 
-My notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
+My paper notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
 
 Recommend:
 
@@ -17,13 +17,13 @@ Recommend:
 
 ### 3D Face Reconstruction
 
-| Year | Name               | Paper                                                                                                                                                                                                                                               | Codes                                                        |
-| ---- | ------------------ |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ |
-| 2018 | 3DDFA              | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005)                                                                                                                                                      | [official](https://github.com/cleardusk/3DDFA)               |
-| 2019 | Deep3DFaceRecon    | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527)                                                                                                                 | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
-| 2020 | **3DDFA_V2**       | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf)                                                                                                                                            | [official](https://github.com/cleardusk/3DDFA_V2)            |
+| Year | Name               | Paper                                                        | Codes                                                        |
+| ---- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2018 | 3DDFA              | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
+| 2019 | Deep3DFaceRecon    | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
+| 2020 | **3DDFA_V2**       | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
 | 2020 | **Detailed3DFace** | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
-| 2021 | DECA               | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012)                                                                                                                                                                       | [official](https://github.com/YadiraF/DECA)                  |
+| 2021 | DECA               | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
 
 #### Imperial College London 
 
@@ -78,6 +78,7 @@ Recommend:
 | 2021 | Physics-based Human Motion Estimation | [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) | Nvidia                                                       |
 | 2021 | SimPoE                                | [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/pdf/2104.00683.pdf) | Meta                                                         |
 | 2021 | imGHUM                                | [imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose](https://arxiv.org/abs/2108.10842) | [Google](https://github.com/google-research/google-research/tree/master/imghum) |
+| 2021 | PoseAug                               | [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/pdf/2105.02465.pdf) | [official](https://github.com/jfzhang95/PoseAug)             |
 | 2022 | MuJoCo                                |                                                              | [deepmind](https://github.com/deepmind/mujoco)               |
 
 #### Hand Estimation
@@ -100,9 +101,11 @@ Recommend:
 | 2021 | MLP-Mixer     | [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601) | [official](https://github.com/google-research/vision_transformer) |
 | 2021 | Noisy Student | [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) | [official](https://github.com/google-research/noisystudent)  |
 | 2021 | ImageNet-21K  | [ImageNet-21K Pretraining for the Masses](https://github.com/Alibaba-MIIL/ImageNet21K) | [official](https://github.com/Alibaba-MIIL/ImageNet21K)      |
+| 2021 | MicroNet      | [MicroNet: Improving Image Recognition with Extremely Low FLOPs](https://arxiv.org/abs/2108.05894) | [official](https://github.com/liyunsheng13/micronet)         |
+| 2021 | RepVGG        | [RepVGG: Making VGG-style ConvNets Great Again ](https://arxiv.org/abs/2101.03697) | [official](https://github.com/DingXiaoH/RepVGG)              |
 | 2022 | ConvNeXt      | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)  | [official](https://github.com/facebookresearch/ConvNeXt)     |
 
-#### 
+
 
 ---
 
