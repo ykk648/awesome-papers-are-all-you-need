@@ -49,7 +49,6 @@ Recommend:
 | 2021 | **ContactHumanDynamics** | [Contact and Human Dynamics from Monocular Video](https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/) | [Stanford](https://github.com/davrempe/contact-human-dynamics) |
 | 2021 | HuMoR                    | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) | [Stanford](https://github.com/davrempe/humor)                |
 | 2021 | MeTRAbs                  | [MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation](https://arxiv.org/abs/2007.07227) | [official](https://github.com/isarandi/metrabs)              |
-| 2021 | **ROMP**                 | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)                |
 | 2022 | DeepMotion               |                                                              | [official](https://deepmotion.com/Animate-3D)                |
 
 #### Motion Capture & Driven
@@ -61,6 +60,19 @@ Recommend:
 | 2021 | 1165048017 Blog     |                                                              | [official](https://github.com/1165048017/BlogLearning/blob/master/BlogContents/%E8%BF%90%E5%8A%A8%E6%8D%95%E6%8D%89.md) |
 | 2021 | **TDPT**            |                                                              | [official](https://github.com/digital-standard/ThreeDPoseTracker) |
 | 2021 | IK/FABRIK/CCDIK     |                                                              | [UE4 doc](https://docs.unrealengine.com/4.27/zh-CN/)         |
+
+#### Body Mesh
+
+| Year | Name               | Paper                                                        | Codes                                                    |
+| ---- | ------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 2019 | SPIN               | [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf) | [official](https://github.com/nkolot/SPIN)               |
+| 2021 | PyMAF              | [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/pdf/2103.16507.pdf) | [official](https://github.com/HongwenZhang/PyMAF)        |
+| 2021 | **MeshGraphormer** | [Mesh Graphormer](http://xxx.itp.ac.cn/abs/2104.00272)       | [microsoft](https://github.com/microsoft/MeshGraphormer) |
+| 2021 | **ROMP**           | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)            |
+| 2021 | DynaBOA            | [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017) | [official](https://github.com/syguan96/DynaBOA)          |
+| 2021 | PARE               | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527) | [official](https://github.com/mkocabas/PARE)             |
+
+
 
 #### Human Motion Estimation
 
