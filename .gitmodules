@@ -1,3 +1,6 @@
 [submodule "Hand3DResearch"]
 	path = Hand3DResearch
 	url = https://github.com/SeanChenxy/Hand3DResearch.git
+[submodule "Human-Video-Generation"]
+	path = Human-Video-Generation
+	url = git@github.com:yule-li/Human-Video-Generation.git
