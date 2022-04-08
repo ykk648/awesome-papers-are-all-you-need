@@ -4,3 +4,6 @@
 [submodule "Human-Video-Generation"]
 	path = Human-Video-Generation
 	url = git@github.com:yule-li/Human-Video-Generation.git
+[submodule "hmr-survey"]
+	path = hmr-survey
+	url = git@github.com:tinatiansjz/hmr-survey.git

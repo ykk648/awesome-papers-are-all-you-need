@@ -10,7 +10,11 @@ My paper notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk
 
 Recommend:
 
+[hmr-survey](https://github.com/tinatiansjz/hmr-survey) by tinatiansjz
+
 [Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy.
+
+[Human-Video-Generation](https://github.com/yule-li/Human-Video-Generation) by yule-li.
 
 ---
 
@@ -70,7 +74,8 @@ Recommend:
 | 2021 | **MeshGraphormer** | [Mesh Graphormer](http://xxx.itp.ac.cn/abs/2104.00272)       | [microsoft](https://github.com/microsoft/MeshGraphormer) |
 | 2021 | **ROMP**           | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)            |
 | 2021 | DynaBOA            | [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017) | [official](https://github.com/syguan96/DynaBOA)          |
-| 2021 | PARE               | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527) | [official](https://github.com/mkocabas/PARE)             |
+| 2021 | PARE               | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527) | [Max Planck](https://github.com/mkocabas/PARE)           |
+| 2021 | PoseTriplet        | [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625) | [official](https://github.com/Garfield-kh/PoseTriplet)   |
 
 
 
@@ -101,6 +106,7 @@ Recommend:
 | 2020 | Mediapipe      | [MediaPipe Hands: On-device Real-time Hand Tracking](https://arxiv.org/abs/2006.10214) | [Google](https://github.com/google/mediapipe)                |
 | 2021 | **FrankMocap** | [A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator](https://arxiv.org/pdf/2008.08324.pdf) | [Meta](https://github.com/facebookresearch/frankmocap)       |
 | 2021 | MocapNETv3     | [Towards Holistic Real-time Human 3D Pose Estimation using MocapNETs](https://www.bmvc2021-virtualconference.com/assets/papers/1334.pdf) | [official](https://github.com/FORTH-ModelBasedTracker/MocapNET) |
+| 2021 | S2HAND         | [S2HAND: Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703) | [Tencent](https://github.com/TerenceCYJ/S2HAND)              |
 
 
 
@@ -184,6 +190,7 @@ Recommend:
 | 2021 | SuperStyleNet    | [SuperStlyeNet: Deep Image Synthesis with Superpixel Based Style Encoder](https://www.bmvc2021-virtualconference.com/assets/papers/0051.pdf) | [official](https://github.com/BenjaminJonghyun/SuperStyleNet) |
 | 2021 | Chunkmogrify     | [Real Image Inversion via Segments](http://arxiv.org/abs/2110.06269) | [Adobe](https://github.com/futscdav/Chunkmogrify)            |
 | 2021 | encoder4editing  | [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | [official](https://github.com/omertov/encoder4editing)       |
+| 2021 | Projected GANs   | [Projected GANs Converge Faster](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf) | [official](https://github.com/autonomousvision/projected_gan) |
 
 #### Nvidia
 
