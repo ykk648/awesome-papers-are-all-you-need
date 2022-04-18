@@ -7,3 +7,6 @@
 [submodule "hmr-survey"]
 	path = hmr-survey
 	url = git@github.com:tinatiansjz/hmr-survey.git
+[submodule "HelloFace"]
+	path = HelloFace
+	url = git@github.com:becauseofAI/HelloFace.git
