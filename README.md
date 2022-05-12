@@ -23,24 +23,22 @@ Recommend:
 
 ### 3D Face Reconstruction
 
-| Year | Name               | Paper                                                        | Codes                                                        |
-| ---- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2018 | 3DDFA              | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
-| 2019 | Deep3DFaceRecon    | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
-| 2020 | **3DDFA_V2**       | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
-| 2020 | **Detailed3DFace** | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
-| 2021 | DECA               | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
+| Year | Name                        | Paper                                                        | Codes                                                        |
+| ---- | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2018 | 3DDFA                       | [Face Alignment in Full Pose Range: A 3D Total Solution](https://arxiv.org/abs/1804.01005) | [official](https://github.com/cleardusk/3DDFA)               |
+| 2019 | Deep3DFaceRecon             | [Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set](https://arxiv.org/abs/1903.08527) | [unofficial](https://github.com/sicxu/Deep3DFaceRecon_pytorch) |
+| 2020 | **3DDFA_V2**                | [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://guojianzhu.com/assets/pdfs/3162.pdf) | [official](https://github.com/cleardusk/3DDFA_V2)            |
+| 2020 | **Detailed3DFace**          | [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FaceScape_A_Large-Scale_High_Quality_3D_Face_Dataset_and_Detailed_CVPR_2020_paper.pdf) | [official](https://github.com/yanght321/Detailed3DFace)      |
+| 2021 | DECA                        | [Detailed Expression Capture and Animation](https://arxiv.org/abs/2012.04012) | [official](https://github.com/YadiraF/DECA)                  |
+|      | **Imperial College London** |                                                              |                                                              |
+| 2019 | GANFit                      | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit)             |
+| 2021 | TBGAN                       | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)              |
+| 2021 | OSTeC                       | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)              |
+| 2021 | Fast-GANFit                 | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                              |
+| 2021 | AvatarMe                    | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)               |
+| 2021 | AvatarMe++                  | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                              |
 
-#### Imperial College London 
 
-| Year | Name        | Paper                                                        | Codes                                            |
-| ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------ |
-| 2019 | GANFit      | [Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf) | [official](https://github.com/barisgecer/GANFit) |
-| 2021 | TBGAN       | [Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks](https://barisgecer.github.io/files/gecer_tbgan_arxiv.pdf) | [official](https://github.com/barisgecer/TBGAN)  |
-| 2021 | OSTeC       | [One-Shot Texture Completion](https://openaccess.thecvf.com/content/CVPR2021/papers/Gecer_OSTeC_One-Shot_Texture_Completion_CVPR_2021_paper.pdf) | [official](https://github.com/barisgecer/OSTeC)  |
-| 2021 | Fast-GANFit | [Fast-GANFIT: Generative Adversarial Network for High Fidelity 3D Face Reconstruction]() |                                                  |
-| 2021 | AvatarMe    | [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845) | [official](https://github.com/lattas/AvatarMe)   |
-| 2021 | AvatarMe++  | [AvatarMe++: Facial Shape and BRDF Inference with Photorealistic Rendering-Aware GANs](https://arxiv.org/abs/2112.05957) |                                                  |
 
 ---
 
@@ -61,53 +59,68 @@ Recommend:
 
 | Year | Name                | Paper                                                        | Codes                                                        |
 | ---- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2020 | EasyMocap           | [ Motion Capture from Internet Videos](https://arxiv.org/abs/2008.07931) | [ZJU3DV](https://github.com/zju3dv/EasyMocap)                |
 | 2021 | ParameterizedMotion | [Learning a family of motor skills from a single motion clip](http://mrl.snu.ac.kr/research/ProjectParameterizedMotion/ParameterizedMotion.html) | [official](https://github.com/snumrl/ParameterizedMotion)    |
 | 2021 | 1165048017 Blog     |                                                              | [official](https://github.com/1165048017/BlogLearning/blob/master/BlogContents/%E8%BF%90%E5%8A%A8%E6%8D%95%E6%8D%89.md) |
 | 2021 | **TDPT**            |                                                              | [official](https://github.com/digital-standard/ThreeDPoseTracker) |
 | 2021 | IK/FABRIK/CCDIK     |                                                              | [UE4 doc](https://docs.unrealengine.com/4.27/zh-CN/)         |
 
+#### Human Kp Estimation
+
+| Year | Name          | Paper                                                        | Codes                                                  |
+| ---- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
+|      | **2D Kp**     |                                                              |                                                        |
+| 2018 | AlphaPose     | [RMPE: Regional Multi-Person Pose Estimation](https://github.com/MVIG-SJTU/AlphaPose) | [official](https://github.com/MVIG-SJTU/AlphaPose)     |
+|      | **3D Kp**     |                                                              |                                                        |
+| 2019 | mvpose        | [Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://arxiv.org/pdf/1901.04111.pdf) | [ZJU3DV](https://github.com/zju3dv/mvpose)             |
+| 2022 | PoseTriplet   | [Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625) | [official](https://github.com/Garfield-kh/PoseTriplet) |
+|      | **combine**   |                                                              |                                                        |
+| 2021 | **MediaPipe** |                                                              | [official](https://github.com/google/mediapipe)        |
+| 2021 | mmpose        |                                                              | [official](https://github.com/open-mmlab/mmpose)       |
 
 #### Human Motion Estimation
 
 [inverse dynamics](https://www.cnblogs.com/ArenAK/archive/2010/07/25/1784782.html) 
 
-| Year | Name                                  | Paper                                                        | Codes                                                        |
-| ---- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|      | &emsp;**Tricks**                      |                                                              |                                                              |
-| 2020 | 6D rotation                           | [On the Continuity of Rotation Representations in Neural Networks](https://arxiv.org/abs/1812.07035) | [official](https://github.com/Janus-Shiau/6d_rot_tensorflow) |
-|      | &emsp;**Body Model**                  |                                                              |                                                              |
-| 2015 | SMPL                                  | [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf) | [official](https://github.com/CalciferZh/SMPL)               |
-| 2019 | SMPL-X                                | [SMPL-X:  A new joint 3D model of the human body, face and hands together](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf) | [official](https://github.com/vchoutas/smplx)                |
-|      | &emsp;**Image Based**                 |                                                              |                                                              |
-| 2017 | VNect                                 | [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](https://vcai.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) | Max Planck                                                   |
-| 2019 | SPIN                                  | [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf) | [official](https://github.com/nkolot/SPIN)                   |
-| 2021 | PyMAF                                 | [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/pdf/2103.16507.pdf) | [official](https://github.com/HongwenZhang/PyMAF)            |
-| 2021 | **MeshGraphormer**                    | [Mesh Graphormer](http://xxx.itp.ac.cn/abs/2104.00272)       | [microsoft](https://github.com/microsoft/MeshGraphormer)     |
-| 2021 | **ROMP**                              | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)                |
-| 2021 | DynaBOA                               | [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017) | [official](https://github.com/syguan96/DynaBOA)              |
-| 2021 | PARE                                  | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527) | [Max Planck](https://github.com/mkocabas/PARE)               |
-| 2021 | PoseTriplet                           | [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625) | [official](https://github.com/Garfield-kh/PoseTriplet)       |
-| 2020 | PhysCap                               | [PhysCap: Physically Plausible Monocular 3D Motion Capture   in Real Time](https://vcai.mpi-inf.mpg.de/projects/PhysCap/data/physcap.pdf) | [Max Planck](https://github.com/soshishimada/PhysCap_demo_release/) |
-| 2021 | HybrIK                                | [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.html) | [official](https://github.com/Jeff-sjtu/HybrIK)              |
-| 2021 | Physics-based Human Motion Estimation | [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) | Nvidia                                                       |
-| 2021 | SimPoE                                | [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/pdf/2104.00683.pdf) | Meta                                                         |
-| 2021 | imGHUM                                | [imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose](https://arxiv.org/abs/2108.10842) | [Google](https://github.com/google-research/google-research/tree/master/imghum) |
-| 2021 | PoseAug                               | [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/pdf/2105.02465.pdf) | [official](https://github.com/jfzhang95/PoseAug)             |
-| 2022 | MuJoCo                                |                                                              | [deepmind](https://github.com/deepmind/mujoco)               |
-|      | &emsp;**Temporal Based**              |                                                              |                                                              |
-| 2020 | VIBE                                  | [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656) | [official](https://github.com/mkocabas/VIBE)                 |
-| 2021 | TCMR                                  | [TCMR: Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video](https://arxiv.org/abs/2011.08627) | [official](https://github.com/hongsukchoi/TCMR_RELEASE)      |
-| 2021 | maed                                  | [MAED: Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303) | [official](https://github.com/ziniuwan/maed)                 |
-|      | **&emsp;Full Body**                   |                                                              |                                                              |
-| 2021 | **FrankMocap**                        | [A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator](https://arxiv.org/pdf/2008.08324.pdf) | [Meta](https://github.com/facebookresearch/frankmocap)       |
-| 2021 | PIXIE                                 | [Collaborative Regression of Expressive Bodies using Moderation](https://ps.is.mpg.de/uploads_file/attachment/attachment/667/PIXIE_3DV_CR.pdf) | [official](https://github.com/YadiraF/PIXIE)                 |
-|      | &emsp;**Multi Views**                 |                                                              |                                                              |
-| 2020 | 3D Human Pose Estimation              | [3D Human Pose Estimation using Multi Camera](https://zenodo.org/record/4003521/files/3D_Human_Pose_Estimation_Using_Multi_Camera.pdf?download=1) | [official](https://github.com/shashikg/3D-Human-Pose-Estimation-using-Multi-Camera) |
-| 2020 | Learnable Triangulation               | [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754) | [official](https://github.com/karfly/learnable-triangulation-pytorch) |
-| 2020 | Epipolar Transformers                 | [Epipolar Transformers](https://arxiv.org/abs/2005.04551)    | [official](https://github.com/yihui-he/epipolar-transformers) |
-| 2020 | **VoxelPose**                         | [VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment](https://arxiv.org/abs/2004.06239) | [microsoft](https://github.com/microsoft/voxelpose-pytorch)  |
-| 2021 | PlaneSweepPose                        | [Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo](https://arxiv.org/abs/2104.02273) | [official](https://github.com/jiahaoLjh/PlaneSweepPose)      |
+| Year | Name                                   | Paper                                                        | Codes                                                        |
+| ---- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|      | &emsp;**Tricks**                       |                                                              |                                                              |
+| 2020 | 6D rotation                            | [On the Continuity of Rotation Representations in Neural Networks](https://arxiv.org/abs/1812.07035) | [official](https://github.com/Janus-Shiau/6d_rot_tensorflow) |
+|      | &emsp;**Body Model**                   |                                                              |                                                              |
+| 2015 | SMPL                                   | [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf) | [official](https://github.com/CalciferZh/SMPL)               |
+| 2019 | SMPL-X                                 | [SMPL-X:  A new joint 3D model of the human body, face and hands together](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf) | [official](https://github.com/vchoutas/smplx)                |
+|      | &emsp;**Image Based**                  |                                                              |                                                              |
+| 2017 | VNect                                  | [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](https://vcai.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf) | Max Planck                                                   |
+| 2019 | SPIN                                   | [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf) | [official](https://github.com/nkolot/SPIN)                   |
+| 2021 | PyMAF                                  | [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/pdf/2103.16507.pdf) | [official](https://github.com/HongwenZhang/PyMAF)            |
+| 2021 | **MeshGraphormer**                     | [Mesh Graphormer](http://xxx.itp.ac.cn/abs/2104.00272)       | [microsoft](https://github.com/microsoft/MeshGraphormer)     |
+| 2021 | **ROMP**                               | [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272) | [official](https://github.com/Arthur151/ROMP)                |
+| 2021 | DynaBOA                                | [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017) | [official](https://github.com/syguan96/DynaBOA)              |
+| 2021 | PARE                                   | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527) | [Max Planck](https://github.com/mkocabas/PARE)               |
+| 2021 | PoseTriplet                            | [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625) | [official](https://github.com/Garfield-kh/PoseTriplet)       |
+| 2020 | PhysCap                                | [PhysCap: Physically Plausible Monocular 3D Motion Capture   in Real Time](https://vcai.mpi-inf.mpg.de/projects/PhysCap/data/physcap.pdf) | [Max Planck](https://github.com/soshishimada/PhysCap_demo_release/) |
+| 2021 | HybrIK                                 | [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://openaccess.thecvf.com/content/CVPR2021/html/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.html) | [official](https://github.com/Jeff-sjtu/HybrIK)              |
+| 2021 | Physics-based Human Motion Estimation  | [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) | Nvidia                                                       |
+| 2021 | SimPoE                                 | [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/pdf/2104.00683.pdf) | Meta                                                         |
+| 2021 | imGHUM                                 | [imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose](https://arxiv.org/abs/2108.10842) | [Google](https://github.com/google-research/google-research/tree/master/imghum) |
+| 2021 | PoseAug                                | [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/pdf/2105.02465.pdf) | [official](https://github.com/jfzhang95/PoseAug)             |
+| 2022 | MuJoCo                                 |                                                              | [deepmind](https://github.com/deepmind/mujoco)               |
+|      | &emsp;**Temporal Based**               |                                                              |                                                              |
+| 2020 | VIBE                                   | [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656) | [official](https://github.com/mkocabas/VIBE)                 |
+| 2021 | TCMR                                   | [TCMR: Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video](https://arxiv.org/abs/2011.08627) | [official](https://github.com/hongsukchoi/TCMR_RELEASE)      |
+| 2021 | maed                                   | [MAED: Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303) | [official](https://github.com/ziniuwan/maed)                 |
+|      | **&emsp;Full Body**                    |                                                              |                                                              |
+| 2021 | **FrankMocap**                         | [A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator](https://arxiv.org/pdf/2008.08324.pdf) | [Meta](https://github.com/facebookresearch/frankmocap)       |
+| 2021 | PIXIE                                  | [Collaborative Regression of Expressive Bodies using Moderation](https://ps.is.mpg.de/uploads_file/attachment/attachment/667/PIXIE_3DV_CR.pdf) | [official](https://github.com/YadiraF/PIXIE)                 |
+| 2022 | Hand4Whole                             | [Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation](https://arxiv.org/abs/2011.11534) | [official](https://github.com/mks0601/Hand4Whole_RELEASE)    |
+|      | &emsp;**Multi Views**                  |                                                              |                                                              |
+| 2020 | 3D Human Pose Estimation               | [3D Human Pose Estimation using Multi Camera](https://zenodo.org/record/4003521/files/3D_Human_Pose_Estimation_Using_Multi_Camera.pdf?download=1) | [official](https://github.com/shashikg/3D-Human-Pose-Estimation-using-Multi-Camera) |
+| 2020 | Learnable Triangulation                | [Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754) | [official](https://github.com/karfly/learnable-triangulation-pytorch) |
+| 2020 | Epipolar Transformers                  | [Epipolar Transformers](https://arxiv.org/abs/2005.04551)    | [official](https://github.com/yihui-he/epipolar-transformers) |
+| 2020 | VoxelPose                              | [VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment](https://arxiv.org/abs/2004.06239) | [microsoft](https://github.com/microsoft/voxelpose-pytorch)  |
+| 2020 | **EasyMocap**                          | [ Motion Capture from Internet Videos](https://arxiv.org/abs/2008.07931) | [ZJU3DV](https://github.com/zju3dv/EasyMocap)                |
+| 2021 | PlaneSweepPose                         | [Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo](https://arxiv.org/abs/2104.02273) | [official](https://github.com/jiahaoLjh/PlaneSweepPose)      |
+| 2021 | freemocap                              |                                                              | [official](https://github.com/freemocap/freemocap)           |
+| 2022 | Generalizable Human Pose Triangulation | [Generalizable Human Pose Triangulation](https://arxiv.org/abs/2110.00280) | [official](https://github.com/kristijanbartol/general-3d-humans) |
 
 #### Hand Estimation
 
@@ -162,14 +175,6 @@ Recommend:
 | 2022 | Stitch it in Time | [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/abs/2201.08361) | [official](https://github.com/rotemtzaban/STIT)              |
 
 
-### Human Pose Estimation
-
-| Year | Name          | Paper                                                        | Codes                                              |
-| ---- | ------------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| 2018 | AlphaPose     | [RMPE: Regional Multi-Person Pose Estimation](https://github.com/MVIG-SJTU/AlphaPose) | [official](https://github.com/MVIG-SJTU/AlphaPose) |
-| 2019 | mvpose        | [Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://arxiv.org/pdf/1901.04111.pdf) | [ZJU3DV](https://github.com/zju3dv/mvpose)         |
-| 2021 | **MediaPipe** |                                                              | [official](https://github.com/google/mediapipe)    |
-| 2021 | mmpose        |                                                              | [official](https://github.com/open-mmlab/mmpose)   |
 
 ---
 
