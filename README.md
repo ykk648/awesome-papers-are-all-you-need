@@ -4,6 +4,8 @@
 
 # Awesome-Papers-Are-All-You-Need
 
+
+
 Record papers I have read or reproduced since 2020 which were beneficial to my work. 
 
 My paper notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
@@ -12,13 +14,14 @@ Recommend:
 
 [hmr-survey](https://github.com/tinatiansjz/hmr-survey) by tinatiansjz
 
-[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy.
+[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy ,  [HandMocapNotes](./HandMocapNotes) by me.
 
 [Human-Video-Generation](https://github.com/yule-li/Human-Video-Generation) by yule-li.
 
 [HelloFace](https://github.com/becauseofAI/HelloFace) by becauseofAI
 
 ---
+
 
 
 ### 3D Face Reconstruction
@@ -41,6 +44,8 @@ Recommend:
 
 
 ---
+
+
 
 ### 3D Human Digitization
 
@@ -180,13 +185,17 @@ Recommend:
 
 ### Image2Image Translation
 
-| Year | Name          | Paper                                                        | Codes                                              |
-| ---- | ------------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| 2019 | SPADE         | [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) | [Nvidia](https://github.com/NVlabs/SPADE)          |
-| 2021 | OASIS         | [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781) | [official](https://github.com/boschresearch/OASIS) |
-| 2017 | pix2pix       | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) | [official](https://github.com/phillipi/pix2pix)    |
-| 2018 | **pix2pixHD** | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585v1) | [nvidia](https://github.com/NVIDIA/pix2pixHD)      |
-| 2018 | vid2vid       | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | [nvidia](https://github.com/NVIDIA/vid2vid)        |
+| Year | Name              | Paper                                                        | Codes                                                        |
+| ---- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019 | SPADE             | [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) | [Nvidia](https://github.com/NVlabs/SPADE)                    |
+| 2021 | OASIS             | [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781) | [official](https://github.com/boschresearch/OASIS)           |
+| 2017 | pix2pix           | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) | [official](https://github.com/phillipi/pix2pix)              |
+| 2018 | **pix2pixHD**     | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585v1) | [nvidia](https://github.com/NVIDIA/pix2pixHD)                |
+| 2018 | vid2vid           | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | [nvidia](https://github.com/NVIDIA/vid2vid)                  |
+|      | **anime face**    |                                                              |                                                              |
+| 2019 | TalkingHeadAnime  |                                                              | [official](http://github.com/dragonmeteor/talking-head-anime-demo) |
+| 2021 | TalkingHeadAnime2 |                                                              | [official](https://github.com/pkhungurn/talking-head-anime-2-demo) |
+| 2022 | EasyVtuber        |                                                              | [official](https://github.com/yuyuyzl/EasyVtuber)            |
 
 ---
 
@@ -206,6 +215,9 @@ Recommend:
 | 2021 | Chunkmogrify     | [Real Image Inversion via Segments](http://arxiv.org/abs/2110.06269) | [Adobe](https://github.com/futscdav/Chunkmogrify)            |
 | 2021 | encoder4editing  | [Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766) | [official](https://github.com/omertov/encoder4editing)       |
 | 2021 | Projected GANs   | [Projected GANs Converge Faster](http://www.cvlibs.net/publications/Sauer2021NEURIPS.pdf) | [official](https://github.com/autonomousvision/projected_gan) |
+| 2022 | CLIPasso         | [Semantically-Aware Object Sketching](https://arxiv.org/abs/2202.05822) | [official](https://github.com/yael-vinker/CLIPasso)          |
+
+
 
 #### Nvidia
 
@@ -260,6 +272,8 @@ Recommend:
 | 2021 | Real-ESRGAN | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/abs/2107.10833) | [official](https://github.com/xinntao/Real-ESRGAN) |
 | 2021 | **GFPGAN**  | [GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://arxiv.org/abs/2101.04061) | [official](https://github.com/TencentARC/GFPGAN)   |
 | 2021 | **GPEN**    | [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070) | [official](https://github.com/yangxy/GPEN)         |
+| 2022 | SwinIR      | [Image Restoration Using Swin Transformer](https://arxiv.org/abs/2108.10257) | [official](https://github.com/JingyunLiang/SwinIR) |
+| 2022 | VRT         | [A Video Restoration Transformer](https://arxiv.org/abs/2201.12288) | [official](https://github.com/JingyunLiang/VRT)    |
 
 ---
 
