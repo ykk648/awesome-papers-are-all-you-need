@@ -10,11 +10,17 @@ Record papers I have read or reproduced since 2020 which were beneficial to my w
 
 My paper notes: [2021](https://ykk648.github.io/posts/65074/) [2022](https://ykk648.github.io/posts/65394/)
 
+My Xmind notes:
+
+[AI Art](./my_notes/AI_Art) (TalkingHead/Text2Image/Text2Video etc.)
+
+[Hand Mocap](./my_notes/Hand_Mocap)
+
 Recommend:
 
 [hmr-survey](https://github.com/tinatiansjz/hmr-survey) by tinatiansjz
 
-[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy ,  [HandMocapNotes](./HandMocapNotes) by me.
+[Hand3DResearch](https://github.com/SeanChenxy/Hand3DResearch) by SeanChenxy 
 
 [Human-Video-Generation](https://github.com/yule-li/Human-Video-Generation) by yule-li.
 
