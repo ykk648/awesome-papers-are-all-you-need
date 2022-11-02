@@ -1,7 +1,6 @@
 # Overview
 
-![AI Art](./AI Art.png)
-
+ ![AIArt](./AIArt.png)
 
 # AI Art
 
