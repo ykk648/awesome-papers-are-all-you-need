@@ -26,6 +26,8 @@ Recommend:
 
 [HelloFace](https://github.com/becauseofAI/HelloFace) by becauseofAI
 
+[awesome-NeRF](https://github.com/koolo233/awesome-NeRF) by koolo233
+
 ---
 
 
