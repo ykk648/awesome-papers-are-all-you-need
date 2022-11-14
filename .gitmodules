@@ -14,3 +14,15 @@
 	path = HelloFace
 	url = git@github.com:becauseofAI/HelloFace.git
 	branch = master
+[submodule "awesome-NeRF"]
+	path = awesome-NeRF
+	url = https://github.com/koolo233/awesome-NeRF.git
+	branch = main
+[submodule "awesome-ai-painting"]
+	path = awesome-ai-painting
+	url = https://github.com/hua1995116/awesome-ai-painting.git
+	branch = master
+[submodule "Awesome-Face-Restoration"]
+	path = Awesome-Face-Restoration
+	url = https://github.com/TaoWangzj/Awesome-Face-Restoration.git
+	branch = main

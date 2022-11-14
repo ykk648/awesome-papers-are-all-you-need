@@ -28,6 +28,10 @@ Recommend:
 
 [awesome-NeRF](https://github.com/koolo233/awesome-NeRF) by koolo233
 
+[awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) by hua1995116
+
+[Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) by TaoWangzj
+
 ---
 
 
